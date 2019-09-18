@@ -15,3 +15,5 @@ end
 def assign_rooms(attendees)
   
   attendees.map do |attendee, index|
+    
+    "Hello"
