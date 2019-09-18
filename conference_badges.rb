@@ -12,4 +12,6 @@ def batch_badge_creator(attendees)
   end
 end
 
-def
+def assign_rooms(attendees)
+  
+  attendees.map do |attendee, index|
